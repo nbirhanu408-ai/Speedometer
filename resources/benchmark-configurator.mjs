@@ -1,4 +1,4 @@
-// example url for local testing:
+https// example url for local testing:
 // http://localhost:8080/?developerMode=true&config=http://localhost:8080/resources/config.json
 // since the json doesn't contain a default suite, dismiss warning popups and select from the developerMenu
 import { DefaultSuites } from "./default-tests.mjs";
